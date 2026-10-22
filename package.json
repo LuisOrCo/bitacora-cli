@@ -1,0 +1,18 @@
+{
+  "name": "bitacora-cli",
+  "version": "1.0.0",
+  "description": "una aplicación de consola que guarda notas en un archivo, evita guardar notas repetidas, genera respaldos y, al final, publica su módulo de fechas como un paquete npm propio.",
+  "keywords": [
+    "registro",
+    "aprender",
+    "notas",
+    "fechas"
+  ],
+  "license": "ISC",
+  "author": "Luis Ortega",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
